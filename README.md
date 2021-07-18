@@ -1,6 +1,7 @@
 # Cats-vs-Dogs
 
-Kaggle Competition
-https://www.kaggle.com/c/dogs-vs-cats
+Dataset was obatained from the Kaggle Competition https://www.kaggle.com/c/dogs-vs-cats
+ A transfer learning based model has been implemented for classification.
+
 
 Dogs vs Cats
